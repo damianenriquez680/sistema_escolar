@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada en **C# (Windows Forms)** conectada a **SQL Server**, que permite gestionar la información académica de una institución educativa mediante operaciones CRUD completas.
 
-> Proyecto universitario — Desarrollo de Sistemas 3  
+> Proyecto universitario — Desarrollo de Sistemas III
 > Universidad de Sonora · Octubre 2025
 
 ---
@@ -11,7 +11,7 @@ Aplicación de escritorio desarrollada en **C# (Windows Forms)** conectada a **S
 
 | Nombre |
 |--------|
-| Damian de Jesús Enriquez Solorzano |
+| Damian de Jesus Enriquez Solorzano |
 | Perla Jazmín Marquez Martinez |
 | Brandon Isaac Miranda Montes |
 | Sabas Alan Sánchez Enriquez |
@@ -127,6 +127,6 @@ Todas las tablas incluyen el campo `FechaHoraCreacion` con valor por defecto `ge
 
 ---
 
-## 📄 Licencia
+## 🎓 Contexto académico
 
 Proyecto académico — Universidad de Sonora, 2025.
